@@ -1,8 +1,8 @@
 ---
 layout: post
 title: mwave
-feature-img: "img/sample_feature_img.png"
-thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030966/blocjams_1x.png"
+feature-img: 
+thumbnail-path: "http://i.imgur.com/5hvQOa5.png"
 short-description: Checkout redesign & rebrand
 
 ---
