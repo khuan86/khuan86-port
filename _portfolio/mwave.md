@@ -6,8 +6,6 @@ thumbnail-path: "http://i.imgur.com/5hvQOa5.png"
 short-description: Checkout redesign & rebrand
 
 ---
-mwave.com.au
-============
 
 > **Role:** UX/UI design, product management
 > **Brief:** I was tasked to optimise the checkout flow for better usability and convert it to a responsive one-page checkout. In the process, give the website an updated look and feel (rebrand).
