@@ -1,8 +1,8 @@
 ---
 layout: post
 title: homeloans
-feature-img: "/img/homeloansthumb.png"
-thumbnail-path: "http://i.imgur.com/5hvQOa5.png"
+feature-img: 
+thumbnail-path: "/img/homeloansthumb.png"
 short-description: One page landing page
 
 ---
