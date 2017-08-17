@@ -1,6 +1,6 @@
 ---
 layout: post
-title: mwave
+title: mwave.com.au
 feature-img: 
 thumbnail-path: "http://i.imgur.com/5hvQOa5.png"
 short-description: Checkout redesign & rebrand
