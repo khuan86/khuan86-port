@@ -3,21 +3,17 @@ layout: post
 title: homeloans
 feature-img: 
 thumbnail-path: "/img/homeloansthumb.png"
-short-description: One page landing page
+short-description: One-page landing page
 
 ---
 
-> **Role:** UX/UI design, product management  
-> **Brief:** I was tasked to optimise the checkout flow for better usability and convert it to a responsive one-page checkout. In the process, give the website an updated look and feel (rebrand).  
-> **Tools:**  Balsamiq, Photoshop  
+> **Role:** UX/UI design, Copywriting, Art direction  
+> **Brief:** Create a one-page landing page from click through banner ads that prompts user action.    
+> **Tools:** Photoshop  
 
 Problem
 ------------
-The old checkout flow is quite clunky and all over the place. There were too many steps to achieve a simple goal: purchase the items quickly and painlessly. It was also not responsive, therefore making mobile transactions very frustrating to use.
-
-The previous design was a copy of Amazon's checkout. While it may have worked at the time as a quick fix, over time with additions to the checkout such as mwave dollars (store credit) and various delivery options, the checkout became too cumbersome to navigate and confusing for newer users.
-
-The web design was also not aligned with the rest of their branding eg. different button styles. Font sizes were all varied, some sections were not aligned properly etc. It definitely required a much needed "designer's touch".
+The client wanted to get as many people as possible to sign up to the free phone consultation via banner ads from third-party websites. 
 
 Solution
 ------------
