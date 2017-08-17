@@ -9,8 +9,8 @@ short-description: Checkout redesign & rebrand
 mwave.com.au
 ============
 
-> **Role:** UX/UI design, product management  
-> **Brief:** I was tasked to optimise the checkout flow for better usability and convert it to a responsive one-page checkout. In the process, give the website an updated look and feel (rebrand).  
+> **Role:** UX/UI design, product management
+> **Brief:** I was tasked to optimise the checkout flow for better usability and convert it to a responsive one-page checkout. In the process, give the website an updated look and feel (rebrand).
 > **Tools:**  Balsamiq, Photoshop
 
 Problem
@@ -44,16 +44,28 @@ Before
 
 ![mwave checkout before](https://i.imgur.com/SrwCxhL.png "mwave checkout before")
 
+
+----------
+
+
 ![mwave checkout before](https://i.imgur.com/ClQvNdB.png "mwave checkout before")
 
 After
 -------
 ![mwave checkout after](https://i.imgur.com/pNhz32p.png "mwave checkout after")
 
+
+----------
+
+
 ![mwave checkout after](https://i.imgur.com/aB0gPlF.png "mwave checkout after")
 
 Wireframes
 ----------------
 ![enter image description here](https://i.imgur.com/B4l7Jl4.png "mwave checkout mobile wireframe")
+
+
+----------
+
 
 ![mwave checkout wireframe](https://i.imgur.com/YnfeS2t.png "mwave checkout wireframe")
