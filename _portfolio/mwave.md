@@ -2,7 +2,7 @@
 layout: post
 title: mwave
 feature-img: 
-thumbnail-path: "http://i.imgur.com/5hvQOa5.png"
+thumbnail-path: "/img/mwavethumb.png"
 short-description: Checkout redesign & rebrand
 
 ---
