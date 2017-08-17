@@ -15,9 +15,9 @@ Problem
 ------------
 The old checkout flow is quite clunky and all over the place. There were too many steps to achieve a simple goal: purchase the items quickly and painlessly. It was also not responsive, therefore making mobile transactions very frustrating to use.
 
-The previous design was a copy of Amazon's checkout. While it may have worked at the time as a quick fix, over the time with additions to the checkout such as mwave dollars (store credit) and various pick up options, the checkout became too cumbersome to navigate and confusing for newer users. Users were presented with too many options that were irrelevant to them.
+The previous design was a copy of Amazon's checkout. While it may have worked at the time as a quick fix, over the time with additions to the checkout such as mwave dollars (store credit) and various delivery options, the checkout became too cumbersome to navigate and confusing for newer users.
 
-The web design was also not aligned with the rest of their branding eg. different button styles. Font sizes were all varied, modules were not aligned properly etc. It definitely required a much needed "designer's touch".
+The web design was also not aligned with the rest of their branding eg. different button styles. Font sizes were all varied, some sections were not aligned properly etc. It definitely required a much needed "designer's touch".
 
 Solution
 ------------
