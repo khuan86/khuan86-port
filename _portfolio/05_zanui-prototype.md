@@ -32,4 +32,5 @@ We also introduced guest checkout, so a new user does not have to think about cr
 
 I tested my prototype with new employees within the company and they were all impressed by how easy it was get through checkout.  After implementation, we monitored the performance of the new design with the old and were very happy that we increased conversion rates by 23% in such a short amount of time!
 
-[Click here to view the prototype](http://nd2u6l.axshare.com/)
+<a href="http://nd2u6l.axshare.com/" target="_blank">Click here to view the prototype</a>
+
