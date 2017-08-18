@@ -12,7 +12,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>UX/UI Designer. Geek. Lover of cats. Gamer. Human.</h1>
+     <h2>UX/UI Designer. Geek. Lover of cats. Gamer. Human.</h2>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
