@@ -11,12 +11,13 @@ short-description: Homepage redesign & rebrand
 > **Brief:** Redesign and rebrand the homepage/company  
 > **Tools:** Photoshop, Illustrator  
 
+**tl;dr:** New design has a stronger brand identity that looks welcoming, trustworthy and professional.
+
 Problem
 ------------
 As a new start-up, the client went through several stages of design. Design was last on the list and the website was mainly there to serve a purpose: lead generation. They were growing rapidly and realised they needed a stronger brand identity.
 
 I agreed with them that the old design looked too busy and lacked a lot of personality. It also looked quite outdated and therefore unprofessional.
-
 
 Solution
 ------------
