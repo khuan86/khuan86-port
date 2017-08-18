@@ -11,6 +11,8 @@ short-description: Agent profile page redesign
 > **Brief:** Redesign agent profile page  
 > **Tools:** Photoshop  
 
+**tl;dr:** New design looks more organised. Keeps content focused and easy to read.
+
 Problem
 ------------
 The old design of the profile page had made too much use of a pale-green colour. It doesn't look appealing and in my opinion cheapens the brand. I also felt that the user had no relief/breathing space between all the different sections. It is overwhelming to look at as it was information overload. The tabs `Overview`, `Reviews` and `Properties` is quite lost and hard to find amongst all the other sections. 
