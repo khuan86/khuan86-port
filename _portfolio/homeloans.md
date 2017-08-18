@@ -1,6 +1,6 @@
 ---
 layout: post
-title: homeloans.com.au
+title: homeloans
 feature-img: 
 thumbnail-path: "/img/homeloansthumb.png"
 short-description: One-page landing page
