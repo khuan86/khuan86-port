@@ -11,6 +11,8 @@ short-description: One-page landing page
 > **Brief:** Create a one-page landing page (top half design only) from click through banner ads that prompts user action  
 > **Tools:** Photoshop  
 
+**tl;dr:** New landing page looks reassuring and easy for users to enter their details in. Utilising emotive and action words to convey that messaging across, backed by the use of relatable imagery in the background.
+
 Problem
 ------------
 The goal of this landing page was quite simple: gather as much data as possible. However most landing pages you find on the internet look untrustworthy to provide them with your information. Many people are not willing to give out their information so freely, especially when it requires your phone number. People are becoming more and more aware of phone scams and are increasingly weary of providing such details online (as you should be!)
