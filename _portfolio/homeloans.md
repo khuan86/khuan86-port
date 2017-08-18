@@ -7,7 +7,7 @@ short-description: One-page landing page
 
 ---
 
-> **Role:** UX/UI Design, Copywriting, Art direction  
+> **Role:** UX/UI Design, Copywriting, Art Direction  
 > **Brief:** Create a one-page landing page (top half design only) from click through banner ads that prompts user action  
 > **Tools:** Photoshop  
 
