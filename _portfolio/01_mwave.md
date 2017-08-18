@@ -11,6 +11,8 @@ short-description: Checkout redesign & rebrand
 > **Brief:** I was tasked to optimise the checkout flow for better usability and convert it to a responsive one-page checkout. In the process, give the website an updated look and feel (rebrand).  
 > **Tools:**  Balsamiq, Photoshop  
 
+**tl;dr:** Designed a less confusing checkout for new and existing customers. The end result is a clean, focused and fast checkout that is simple to follow and understand whilst maintaining the brand.
+
 Problem
 ------------
 The old checkout flow is quite clunky and all over the place. There were too many steps to achieve a simple goal: purchase the items quickly and painlessly. It was also not responsive, therefore making mobile transactions very frustrating to use.
