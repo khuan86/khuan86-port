@@ -5,14 +5,14 @@ url: "0.0.0.0" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Katie Huan
+  title: Katie Huan - UX/UI Designer
   avatar: 
   gravatar: # Email MD5 hash
   description: "UX/UI Designer - Katie Huan"
 
   # Header and footer text
   header_text: >
-     <h3>I'm an experienced UX/UI designer who is deeply motivated by providing the best customer experience possible through aesthetically clean & well thought-out design. I thrive in team-orientated environments where everyone shares the same vision and goal.</h3>
+     <h1>UX/UI Designer. Geek. Lover of cats. Gamer. Human.</h1>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
