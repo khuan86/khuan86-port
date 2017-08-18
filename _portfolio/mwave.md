@@ -40,30 +40,34 @@ I've paid extra attention to ensure the colour schemes used here is not jarring 
 Before
 ---------
 
-![mwave checkout before](https://i.imgur.com/SrwCxhL.png "mwave checkout before")
-
+![mwave checkout before](/img/before-mwavecheckout.png "Checkout before")
 
 ----------
 
-
-![mwave checkout before](https://i.imgur.com/ClQvNdB.png "mwave checkout before")
+![mwave checkout before](/img/before-mwavecheckout2.png "Checkout before")
 
 After
 -------
-![mwave checkout after](https://i.imgur.com/pNhz32p.png "mwave checkout after")
-
+Welcome screen
+![Welcome screen](/img/after-mwave_checkout-welcome.png "Welcome screen")
+[(View original size)](/img/after-mwave_checkout-welcome.png)
 
 ----------
 
+New user screen after creating an account
+![New user screen after creating an account](/img/after-mwave_checkout-newuser-delivery.png "New user screen after creating an account")
+[(View original size)](/img/after-mwave_checkout-newuser-delivery.png)
 
-![mwave checkout after](https://i.imgur.com/aB0gPlF.png "mwave checkout after")
+----------
+
+Existing user screen after filling in required information
+![Existing user screen after filling in required information](/img/after-mwave_checkout-existinguser-payment.png "Existing user screen after filling in required information")
+[(View original size)](/img/after-mwave_checkout-existinguser-payment.png)
 
 Wireframes
 ----------------
-![enter image description here](https://i.imgur.com/B4l7Jl4.png "mwave checkout mobile wireframe")
-
+![Checkout mobile wireframe](/img/wireframe-mwave-mobile-tablet-view.png "Checkout mobile wireframe")
 
 ----------
 
-
-![mwave checkout wireframe](https://i.imgur.com/YnfeS2t.png "mwave checkout wireframe")
+![Checkout wireframe](/img/wireframe-mwave-checkout-step3.png "Checkout wireframe")
