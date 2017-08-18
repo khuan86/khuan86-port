@@ -48,4 +48,5 @@ Banner
 Landing Page
 --------------------
 ![homeloans landing page](/img/homeloans-landing.png "homeloans landing page")
+[(View original size)](/img/homeloans-landing.png)
 
