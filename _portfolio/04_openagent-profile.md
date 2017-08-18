@@ -3,7 +3,7 @@ layout: post
 title: OpenAgent
 feature-img: 
 thumbnail-path: "/img/openagentprofilethumb.png"
-short-description: Redesign agent profile page
+short-description: Agent profile page redesign
 
 ---
 
